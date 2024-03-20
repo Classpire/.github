@@ -1,6 +1,6 @@
-![classpire-black](https://github.com/Classpire/.github/assets/33542127/94027d71-5cd6-4a4c-8401-f7a94ea7949b)
+# Classpire
 
-# 🙋‍♀️ A short introduction -
+### 🙋‍♀️ A short introduction -
 Classpire streamlines administration, academics, communication, and financial management processes for educational institutions.
 
 <!--
